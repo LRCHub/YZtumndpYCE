@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Stellar Stream",
+  "base_artist": "上原歩夢 (CV.大西亜玖璃)",
+  "createdAt": "2025-12-14T06:07:07.267234Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stellar Stream",
+      "artist": "上原歩夢(CV.大西亜玖璃)",
+      "has_synced": true,
+      "path": "select/01_Stellar_Stream_上原歩夢(CV.大西亜玖璃).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stellar Stream (Off Vocal)",
+      "artist": "Ayumu Uehara (CV: Aguri Onishi)",
+      "has_synced": false,
+      "path": "select/02_Stellar_Stream_(Off_Vocal)_Ayumu_Uehara_(CV__Aguri_Onishi).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stellar Stream",
+      "artist": "上原歩夢 (CV.大西亜玖璃)",
+      "has_synced": false,
+      "path": "select/pl_01_Stellar_Stream_上原歩夢_(CV.大西亜玖璃).txt"
+    }
+  ]
+}
